@@ -1,66 +1,65 @@
-
-
 ## My personal projects 
 
 
-# by-hand-designs
+# School
 _________________
 
 **Repo Link**
 
- https://github.com/BethMwangi/by_hand_design
+ https://github.com/tonuidavies/school
 
 **Project Details**
- by-hand-design is a website agency/business that focuses on art. 
+This a school website repo which the people can login using students registration number to check their results, progress and fee status. 
 
 
 **Features**
-One-page website
+Several page
 NavBar Links: 
  1. Home 
  2. About us
- 3. Portfolio
  4. Contact us
+ 5. Login
+ 6. Downloads
+
 
 **Tools**
 Foundation 6
 
 **Contributors**
- Beth Mwangi
+ Tonui Davies
  
  
-# 254-kiddies-couture
+# Flask blog
 _________________
 
 **Repo Link**
- https://github.com/BethMwangi/254_kiddies
+https://github.com/tonuidavies/Blog-flask
 
 **Project Details**
- An e-commerce website selling kids stuff
+ A blog for county to keep updating what is going on around my county. members can post comments and media stuff
 
 
 **Features**
 4page website
 NavBar Links: 
  1. Home 
- 2. Boys
- 3. Girls
- 4. Collection
- + Shopping cart
+ 2. Login
+ 3.... still to work on precise features
 
 **Tools**
 Foundation 6
-API Integration: social media
+Python-Flask
 
 **Contributors**
- Beth Mwangi
+ 1. Tonui Davies
+ 2. Chepkemoi Cynthia
  
  
 # FrontEndFour Menu
 _________________
 
 **Repo Link**
- https://github.com/BethMwangi/FrontEndFour
+ https://github.com/tonuidavies/f1--Agency
 
 **Project Details**
 PSD to HTML 
@@ -76,46 +75,22 @@ Foundation 6
 
 
 **Contributors**
- Beth Mwangi
+Tonui Davies
 
 
-# Library Management System
+
+# Band Website
 _________________
 
 **Repo Link**
-
-https://github.com/BethMwangi/library_systempython
+https://github.com/tonuidavies/BAND1.git
 
 **Project Details**
-A library system where a student can register/login and select books from the library catalogue 
+H_art the Band music band website. Am planning to make it complete, deploy and give it to the band
 
 
 **Features**
- Login Page
- Student portal/Welcome page
- Database Integration
- 
-
-
-**Tools**
-  Flask
-
-**Contributors**
- Beth Mwangi
- Kelvin Muchui
- 
-# Burger Dome cafe
-_________________
-
-**Repo Link**
-https://github.com/BethMwangi/burgerdome_cafe
-
-**Project Details**
-A Fast food cafe website where a user can order food 
-
-
-**Features**
- A one page 
+ 5 pages
  API integration
  
 
@@ -124,6 +99,6 @@ A Fast food cafe website where a user can order food
   Foundation 6
 
 **Contributors**
- Beth Mwangi
+Tonui Davies
  
  
